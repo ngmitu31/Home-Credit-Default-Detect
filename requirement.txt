@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+lightgbm
+time
+ydata-profiling
+matplotlib
+seaborn
+ jupyter-summarytools
